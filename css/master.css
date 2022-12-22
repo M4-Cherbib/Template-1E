@@ -269,7 +269,7 @@ body {
 .card {
   padding-bottom: var(--main-padding-bottom);
   padding-top: var(--main-padding-top);
-  background-color: #fff;
+  background-color: #eee;
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
